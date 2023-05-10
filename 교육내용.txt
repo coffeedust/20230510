@@ -1,0 +1,4 @@
+1. 웹브라우저에서 robolinksw.com으로 접속
+2. 코드론II에서 "로킷브릭 for 코딩드론" Windows Download를 클릭
+3. 다운로드 폴더의 RokitbrickForCodingdrone_130.zip의 압축해제
+4. 폴더내의 RBCodrone.exe 실행
